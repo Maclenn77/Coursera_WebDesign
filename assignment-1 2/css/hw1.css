@@ -1,0 +1,26 @@
+/* CSS File by J. Paulo Pérez-Tejada */
+h1{
+  text-align: center;
+  background-color: #0022BB;
+  font-size: 150%;
+  color: #ffffff;
+}
+
+nav{
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  background-color: #00bbbb;
+}
+
+main{
+  display: block;
+  overflow: auto;
+  width: auto;
+  text-align: justify;
+  background: #11aaaa;
+}
+
+img{
+  display: none;
+}
